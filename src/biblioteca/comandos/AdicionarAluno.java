@@ -52,7 +52,7 @@ public class AdicionarAluno implements Logica {
 		return "aluno-cadastrado.jsp" ;
 	}
 		private void System() {
-			// TODO Auto-generated method stub
+			String gitaluno = null;
 
 		}
 	}
